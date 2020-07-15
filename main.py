@@ -7,7 +7,7 @@ import time
 
 
 POST_URL = "https://www.google.co.jp/searchbyimage/upload"
-IMAGE_NAME = "type image file name here"
+IMAGE_NAME = "samples/tanpopo.jpg"
 
 
 class ResultData():
